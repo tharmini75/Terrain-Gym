@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48973809872",
+    "project_id": "terrain-gym",
+    "storage_bucket": "terrain-gym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48973809872:android:e639396aed4c7c17eef6d5",
+        "android_client_info": {
+          "package_name": "com.example.terrain_gym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48973809872-s0iamtmjn9rrdkoi53a47o134417f9vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW9hnwFSyMy_xIOU0ebSwXAB28UOuQSLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48973809872-s0iamtmjn9rrdkoi53a47o134417f9vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
